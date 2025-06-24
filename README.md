@@ -92,7 +92,7 @@ Content-Type: application/json
 - **Domain Layer**: İş mantığı ve entity'ler
 - **Application Layer**: Servis sınıfları ve iş kuralları
 - **Infrastructure Layer**: Veritabanı erişimi ve dış kaynak entegrasyonları
-- **Presentation Layer**: API controller'ları
+- **Presentation Layer**: API controllerları
 
 
 ## Veritabanı
