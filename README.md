@@ -4,7 +4,7 @@ Basit bir abonelik sistemi .NET Core öğrenmek içindi.
 
 ##  Özellikler
 
-- **Clean (Onion) Architecture** mimarisi
+- **Clean Architecture** mimarisi
 - **Entity Framework Core** ile veritabanı işlemleri
 - **Dependency Injection** desteği
 - **RESTful API**
